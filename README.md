@@ -1,1 +1,2 @@
-hello world on free basic video
+
+https://docs.github.com/en/copilot/how-tos/manage-your-account/free-access-with-copilot-student
